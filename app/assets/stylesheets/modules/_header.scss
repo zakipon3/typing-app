@@ -1,0 +1,19 @@
+.header__contents {
+  background-color: skyblue;
+  padding: 10px 100px;
+  display: flex;
+  justify-content: space-between;
+  h1 {
+    color: white;
+    font-size: 25px;
+  }
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  .btn {
+    color: white;
+    padding: 0 10px 0 0;
+  }
+}
